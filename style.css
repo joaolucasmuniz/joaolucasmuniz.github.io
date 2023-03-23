@@ -1,0 +1,47 @@
+.listateste{
+    background-color: aqua;
+    color: black;
+}
+#nome {
+    color: aqua;
+    font-weight: 200;
+    line-height: 160px;
+}
+.habil{
+    font-size: 1.1em;
+}
+
+body{
+background-color: rgb(51, 49, 49);
+color: aliceblue;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+}
+
+p{
+font-family:fantasy;
+}
+h1{
+font-size: 3em;
+text-align: center;
+}
+h4 {
+font-size: 2em;
+
+}
+.imgtext img{
+    border-radius: 50%;
+    width: 300px;
+    position: relative;
+margin-left : 185px;
+    
+}
+#perfil {
+    width: 30%;
+    padding: 0 0 0 50px;
+    text-align: center;
+    
+}
+#perfiltotal{
+
+}
