@@ -27,16 +27,15 @@ text-align: center;
 }
 h4 {
 font-size: 2em;
-
-}
-.imgtext img{
-    border-radius: 50%;
-    width: 300px;
-    position: relative;
 }
 #perfiltotal{
     text-align: center;
     width: 500px; 
     margin-left: auto;
     margin-right: auto; 
+}
+.imgtext img{
+    border-radius: 50%;
+    width: 300px;
+    position: relative;
 }
